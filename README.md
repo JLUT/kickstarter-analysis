@@ -1,7 +1,7 @@
 # kickstarter-analysis
 Performing analysis on kickstarter data.
                            
-Overview of the Project
+Overview of the Project\
 In this project I was trying to analyze data about crowdfunding campaign, to assist a playwright to start their crowdfunding campaign. The playwright was expecting over $10000 as expenses and my finding from the data analysis will help the playwright to take the right decision on her campaign.
 
 Analysis and Challenges 
