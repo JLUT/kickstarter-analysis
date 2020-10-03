@@ -8,9 +8,12 @@ In this project I was trying to analyze data about crowdfunding campaign, to ass
 
 Analysis:\
 Based campaign data was not having all relevant columns to start my analysis. So, I have introduced calculated fields using excel formulas to obtain them. For example, I had to derive the averages, percentages, start and end dates etc.
-I focused a lot on analyzing the statistics of successful and failed projects because I was interested in discovering any trend or strong indicators that will differentiate successful and failed project.
-I have created Pivot tables to analyze the data and then created relevant graphs using the pivot data to visualize the data. Main analysis was to see data pattern for (1) Outcome based on launch date (2) Outcome based on goals.
-There is a spike of successful campaigns that began in June, but that was not there by the end of the year. Technology campaign reveals instead of one large spike their trend was a bit all over the place.
+I focused a lot on analyzing the statistics of successful and failed projects because I was interested in discovering any trend or strong indicators that will differentiate successful and failed project.\
+
+I have created Pivot tables to analyze the data and then created relevant graphs using the pivot data to visualize the data. Main analysis was to see data pattern for (1) Outcome based on launch date (2) Outcome based on goals.\
+
+There is a spike of successful campaigns that began in June, but that was not there by the end of the year. Technology campaign reveals instead of one large spike their trend was a bit all over the place.\
+
 In general, both May and June seem to be a good month to launch a campaign. 
 
 
@@ -18,7 +21,7 @@ Challenges:\
 The key challenges I had was to convert the unit time stamps to normal dates and format the pivot date fields to Month format. I have used excel help option to learn more about these features in excel and did the conversion. 
 
 What are two conclusions you can draw about the Theater Outcomes based on Launch Date?\
-(1)	Theater is a popular and successful type of campaign.
+(1)	Theater is a popular and successful type of campaign.\
 (2)	Month of May is having a peak for successful campaigns.
 
 What can you conclude about the Outcomes based on Goals?\
