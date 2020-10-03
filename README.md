@@ -8,11 +8,11 @@ In this project I was trying to analyze data about crowdfunding campaign, to ass
 
 Analysis:\
 Based campaign data was not having all relevant columns to start my analysis. So, I have introduced calculated fields using excel formulas to obtain them. For example, I had to derive the averages, percentages, start and end dates etc.
-I focused a lot on analyzing the statistics of successful and failed projects because I was interested in discovering any trend or strong indicators that will differentiate successful and failed project.\
+I focused a lot on analyzing the statistics of successful and failed projects because I was interested in discovering any trend or strong indicators that will differentiate successful and failed project.
 
-I have created Pivot tables to analyze the data and then created relevant graphs using the pivot data to visualize the data. Main analysis was to see data pattern for (1) Outcome based on launch date (2) Outcome based on goals.\
+I have created Pivot tables to analyze the data and then created relevant graphs using the pivot data to visualize the data. Main analysis was to see data pattern for (1) Outcome based on launch date (2) Outcome based on goals.
 
-There is a spike of successful campaigns that began in June, but that was not there by the end of the year. Technology campaign reveals instead of one large spike their trend was a bit all over the place.\
+There is a spike of successful campaigns that began in June, but that was not there by the end of the year. Technology campaign reveals instead of one large spike their trend was a bit all over the place.
 
 In general, both May and June seem to be a good month to launch a campaign. 
 
