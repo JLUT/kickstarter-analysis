@@ -34,4 +34,4 @@ What are some limitations of this dataset?\
 
 What are some other possible tables and/or graphs that we could create?\
 (1)Campaign analysis based on launch date and end date and its success rate.\
-(2)Currency wise analysis for campaign and an additional column with FX rate for USD to local currency conversation would have been great for further analysis.
+(2)Currency wise analysis for campaign and an additional column with FX rate for USD to local currency conversation would have been great for further analysis..
