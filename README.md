@@ -4,7 +4,7 @@ Performing analysis on kickstarter data.
 **Overview of the Project**\
 In this project I was trying to analyze data about crowdfunding campaign, to assist a playwright to start their crowdfunding campaign. The playwright was expecting over $10000 as expenses and my finding from the data analysis will help the playwright to take the right decision on her campaign.
 
-**Analysis and Challenges**\
+**Analysis and Challenges**
 
 Analysis:\
 Based campaign data was not having all relevant columns to start my analysis. So, I have introduced calculated fields using excel formulas to obtain them. For example, I had to derive the averages, percentages, start and end dates etc.
@@ -26,9 +26,9 @@ What can you conclude about the Outcomes based on Goals?\
 
 
 What are some limitations of this dataset?\
-Overall data set was only 4115 and a bigger data set would have been good for data analysis.
-Data set was given for 8 years from 2009 to 2017. Data with more year coverage would have resulted in better outcome.
+(1)Overall data set was only 4115 and a bigger data set would have been good for data analysis.\
+(2)Data set was given for 8 years from 2009 to 2017. Data with more year coverage would have resulted in better outcome.
 
 What are some other possible tables and/or graphs that we could create?\
-Campaign analysis based on launch date and end date and its success rate.
-Currency wise analysis for campaign and an additional column with FX rate for USD to local currency conversation would have been great for further analysis.
+(1)Campaign analysis based on launch date and end date and its success rate.\
+(2)Currency wise analysis for campaign and an additional column with FX rate for USD to local currency conversation would have been great for further analysis.
